@@ -1,0 +1,6 @@
+.env
+key.json
+node_modules
+
+*.png
+*.pdf
